@@ -1,0 +1,1 @@
+Creates a Spring application that lets you create and retrieve Person objects stored in a database by using Spring Data REST.
